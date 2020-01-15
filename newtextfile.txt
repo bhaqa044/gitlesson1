@@ -3,3 +3,5 @@ add new line
 
 
 Line after bunch of new lines
+
+I am coding
